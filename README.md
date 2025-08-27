@@ -14,3 +14,9 @@ La base de datos cuenta con la siguiente información:
 - “G1”. Calificación del primer periodo, escala del 0 al 20.
 - “G2”. Calificación del segundo periodo, escala del 0 al 20.
 - “G3”. Calificación final, escala del 0 al 20.
+
+Este proyecto incluye los siguientes documentos:
+
+- Reporte en formato ipynb
+- Reporte en formato html
+- Base de datos
