@@ -19,4 +19,4 @@ Este proyecto incluye los siguientes documentos:
 
 - Reporte en formato ipynb
 - Reporte en formato html
-- Base de datos
+- [Base de datos](A1.5Calificaciones.csv)
